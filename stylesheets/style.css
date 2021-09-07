@@ -22,17 +22,6 @@ a:hover {
 .logo {
   max-width: 500px;
 }
-.logo-box {
-  width: 100px;
-  height: 100px;
-  background: red;
-  position: relative;
-  animation: mymove 5s infinite;
-}
-@keyframes mymove {
-  from {top: 0px;}
-  to {top: 200px;}
-}
 
 /* NAVIGATION */
 .nav-pad {
@@ -44,10 +33,10 @@ a:hover {
   padding-top: 0px;
 }
 .social {
-  color: rgba(5,221,221,1);
+  color: white;
 }
 .social:hover {
-  color: black;
+  color: rgba(5,221,221,1);
   text-decoration: none;
   transform: scale(1.5);
 }
@@ -65,7 +54,7 @@ a:hover {
 .intro-content {
   padding-top: 40px;
   padding-left: 40px;
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.5);
   border-radius: 30px;
 }
 .intro-content h1{
@@ -84,6 +73,8 @@ a:hover {
 .cap {
   font-size: 28px;
   padding-top: 2px;
+  padding-right: 6px;
+  color: #ffcc33;
 }
 .school-info {
   font-size: 20px;
