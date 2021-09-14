@@ -1,6 +1,7 @@
 html{
   min-height: 100%;
   min-width:100%;
+  scroll-behavior: smooth;
 }
 .contain {
   margin-left: 40px;
