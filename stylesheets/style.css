@@ -198,3 +198,51 @@ footer {
 footer p {
   padding-top: 20px;
 }
+
+/* CELL ADJUSTMENTS */
+
+@media (max-width: 575.98px) {
+  .fa-4x {
+    font-size: 2em;
+  }
+  #about {
+    margin: 0;
+  }
+  .nav {
+    text-align: center;
+  }
+  .nav-pad {
+    padding-bottom: 20px;
+  }
+  .intro-content {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+  }
+  .intro-text {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  .skills {
+    padding-top: 10px;
+  }
+  .info-bullets {
+    font-size: .8em;
+  }
+  .skills ul li {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .school-info {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .icons h3 {
+    font-size: 32px;
+  }
+  .fa-3x {
+    font-size: 2em;
+  }
+}
