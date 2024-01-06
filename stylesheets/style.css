@@ -28,7 +28,10 @@ a:hover {
   max-width: 500px;
   margin-left: 20px;
 }
-
+.wwc-logo {
+  max-width: 200px;
+  padding: 20px;
+}
 /* NAVIGATION */
 .nav-pad {
   padding-bottom: 80px;
