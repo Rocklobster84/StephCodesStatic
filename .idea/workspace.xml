@@ -36,6 +36,12 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JavaScript",
+      "TEXT"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,7 +65,10 @@
       <workItem from="1704472454993" duration="8124000" />
       <workItem from="1704598322730" duration="196000" />
       <workItem from="1704598548064" duration="141000" />
-      <workItem from="1705443217947" duration="12000" />
+      <workItem from="1705443217947" duration="41000" />
+      <workItem from="1705443559705" duration="694000" />
+      <workItem from="1705524957395" duration="126000" />
+      <workItem from="1707244273562" duration="197000" />
     </task>
     <servers />
   </component>
