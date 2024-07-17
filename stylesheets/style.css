@@ -11,9 +11,7 @@ body {
   padding: 0px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
-h1, h2, h3, h4, h5 {
-  font-family: 'Satisfy', cursive;
-}
+
 a {
   text-decoration: none;
   color: #00AEEF;
@@ -82,7 +80,6 @@ a:hover {
   border-radius: 30px;
 }
 .intro-content h1{
-  font-family: 'Satisfy', cursive;
   color: white;
 }
 .intro-text {
