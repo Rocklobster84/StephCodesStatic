@@ -248,3 +248,11 @@ footer p {
     font-size: 2em;
   }
 }
+
+/* PHOTOGRAPHY */
+.photo-text {
+  font-size: 1.4em;
+}
+figcaption {
+  text-align: center;
+}
